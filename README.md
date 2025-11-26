@@ -63,9 +63,3 @@ Switch to reserved instances
 
 Optimize data transfers
 
-Delete unused storage
-
-
-Total Cost: $180
-Expensive Service: EC2 Compute
-Recommendation: Switch to t3.medium or reduce usage hours.
